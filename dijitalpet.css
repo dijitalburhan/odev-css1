@@ -1,0 +1,19 @@
+h2 {
+    color: purple ;
+    font-size: 35px ;
+    font-family: 'Red Hat Display', sans-serif;
+}
+
+ul {
+    color:rgb(37, 35, 35) ;
+    }
+
+    img {
+        height: 150px;
+    }
+
+   ul{
+    
+    list-style-position: inside
+
+   } 
